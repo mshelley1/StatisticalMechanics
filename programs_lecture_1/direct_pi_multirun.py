@@ -1,3 +1,5 @@
+# Run multiple (n_runs) games with n_trials each
+
 import random
  
 def direct_pi(N):
