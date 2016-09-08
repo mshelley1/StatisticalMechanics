@@ -1,3 +1,5 @@
+# Run one game with n_trials
+
 import random
 
 n_trials = 4000
